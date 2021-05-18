@@ -14,7 +14,7 @@ Python / Django backend software developer is here
 
 <hr>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=almazkun&show_icons=&private_count=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=almazkun&private_count=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almazkun&layout=compact)]()
 
 <hr>
