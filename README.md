@@ -13,5 +13,5 @@ Python / Django backend software developer is here
 * [Django Blog and Shop](https://akun.dev) - Minimalistic django based blog, portfolio and an internet shop. 
 
 <hr>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almazkun&layout=compact)]()
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almazkun&layout=compact)
 <hr>
