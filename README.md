@@ -2,9 +2,9 @@
 
 Python / Django backend software developer is here
 
-- Currently working: [@soelab](https://github.com/soelab) on [webbnm.com](https://webbnm.com) and [showreel.io](https://showreel.io)
+- Currently working: [@ailysai](https://github.com/ailysai) on ["DAVinCI LABS" - AI based data analytics system](https://davincilabs.ai/).
 - Currently learning: [Effective Python](https://github.com/almazkun/effective_python)
-- How to reach me: hello@akun.dev
+- How to reach me: hello(at)akun.dev
 
 ### Some of my works:
 * [Vipps Payment integration](https://pypi.org/project/vipps/) - Python layer over Vipps Payments API.
