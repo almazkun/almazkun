@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Python / Django backend software developer is here
+Python / Django backend software engineer is here
 
 - Currently working: [@ailysai](https://github.com/ailysai) on ["DAVinCI LABS" - AI based data analytics system](https://davincilabs.ai/).
 - Currently learning: [Effective Python](https://github.com/almazkun/effective_python)
@@ -8,6 +8,7 @@ Python / Django backend software developer is here
 
 ### Some of my works:
 * [Vipps Payment integration](https://pypi.org/project/vipps/) - Python layer over Vipps Payments API.
+* [npss](https://pypi.org/project/npss/) - Your New Password!
 * [Django URL Shortener](https://github.com/almazkun/durls) - Quickly redirect and Shorten URLs. 
 * [UTM builder](https://github.com/almazkun/utm_source_url_builder) - Tool to track link performance in Google Analytics. 
 * [Django Blog and Shop](https://akun.dev) - Minimalistic django based blog, portfolio and an internet shop. 
