@@ -6,7 +6,7 @@ Python / Django backend software engineer is here
 
 ### Some of my works:
 * [npss](https://pypi.org/project/npss/) - Your New Password!
-* [UTM builder](https://github.com/almazkun/utm_source_url_builder) - Tool to track link performance in Google Analytics. 
+* [Django URL Shortener](https://github.com/almazkun/durls) - Quickly redirect and Shorten URLs.
 * [Django Blog and Shop](https://akun.dev) - Minimalistic django based blog, portfolio and an internet shop. 
 
 ![](https://raw.githubusercontent.com/almazkun/almazkun/main/.github/github-contribution-grid-snake.svg)
