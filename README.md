@@ -9,4 +9,4 @@ Python / Django backend software engineer is here
 * [UTM builder](https://github.com/almazkun/utm_source_url_builder) - Tool to track link performance in Google Analytics. 
 * [Django Blog and Shop](https://akun.dev) - Minimalistic django based blog, portfolio and an internet shop. 
 
-![](https://raw.githubusercontent.com/zhubeilife/zhubeilife/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/almazkun/almazkun/main/.github/github-contribution-grid-snake.svg)
