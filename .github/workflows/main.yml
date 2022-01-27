@@ -31,4 +31,4 @@ jobs:
           git config --global user.name "Almaz Kunpeissov"
           git add -f ./.github/github-contribution-grid-snake.svg
           git commit -m "update the snake"
-          git push origin shake --force
+          git push origin snake --force
