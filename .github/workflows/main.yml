@@ -25,6 +25,7 @@ jobs:
 
       - name: Upload to repo
         run: |
+          git fetch
           git checkout snake
           git config --global user.email "snake@akun.dev"
           git config --global user.name "Almaz Kunpeissov"
