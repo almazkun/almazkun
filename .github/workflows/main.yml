@@ -23,8 +23,11 @@ jobs:
           gif_out_path: ./.github/github-contribution-grid-snake.gif
           svg_out_path: ./.github/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: main
-          message: 'Generate Contribution Snake'
+      - name: Upload to repo
+        run: |
+          git checkout snake
+          git config --global user.email "snake@akun.dev"
+          git config --global user.name "Almaz Kunpeissov"
+          git add -f ./.github/github-contribution-grid-snake.svg
+          git commit -m "update the snake"
+          git push origin shake --force
