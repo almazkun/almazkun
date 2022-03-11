@@ -76,3 +76,6 @@ def print_dir(i):
         s = "." * o
         print(f"{x}: {s} {att}")
     print('=' * ( l + 2 ))
+    
+string = "Some sentence with words to be change to the branch name"
+"".join([x.lower() for x in "-".join(string.split(" "))])
