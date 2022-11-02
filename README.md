@@ -2,7 +2,7 @@
 
 Python / Django backend software engineer is here
 
-- Currently working: [@ailysai](https://github.com/ailysai) on ["DAVinCI LABS" - AI based data analytics system](https://davincilabs.ai/).
+- Currently working: [@tetrasignum](https://github.com/tetrasignum) on [education with 3d]([https://davincilabs.ai/](https://tetrasignum.olly.kr)).
 
 ### Some of my works:
 * [jeonse](https://github.com/almazkun/jeonse) - Rental options comparer.
