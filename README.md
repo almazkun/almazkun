@@ -1,19 +1,19 @@
 
 ### Hi there 👋
 
-What I have been doing
 
+#### what can i do
+- VBA for Excel, Sketchup, MySQL, React, pixlr, MS office
+
+
+#### What I have been doing
 - Billing platform planning
 - Web planning
 - Van business Planning
 - Esl business with Northbridge and Ateciot
 
-what else can i do
-- VBA for Excel, Sketchup, MySQL, React, pixlr, MS office
 
-and studying...
-
-### Some of my works:
+#### Some of my works:
 * Wemade entertainment : games billing platform(~2012)
 * LNK Logic korea : games billing platform(~2018)
 * Consulting about Industry statistics
@@ -24,4 +24,3 @@ and studying...
 * Tetra signum : CPR Trainnig, CBS Mass portal site
 
 
-What a no planning lif
