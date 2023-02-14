@@ -9,7 +9,6 @@ What I have been doing
 - Esl business with Northbridge and Ateciot
 
 what else can i do
-
 - VBA for Excel, Sketchup, MySQL, React, pixlr, MS office
 
 and studying...
