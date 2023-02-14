@@ -10,21 +10,19 @@ What I have been doing
 
 what else can i do
 
-- VBA for Excel
-- Sketchup
-- MySQL
-- React : Biginner
-- pixlr
-- MS office : Expert
+- VBA for Excel, Sketchup, MySQL, React, pixlr, MS office
 
 and studying...
 
 ### Some of my works:
-* Wemade entertainment games billing platform(~2012)
-* LNK Logic korea games billing platform(~2018)
+* Wemade entertainment : games billing platform(~2012)
+* LNK Logic korea : games billing platform(~2018)
 * Consulting about Industry statistics
-* Easymedia Web planning
+* Easymedia : Web planning
   - https://www.dn-solutions.com/ko/main/index.do
   - https://gpc.hyundai.co.kr/
 * theMomma : billing platform, Van business, ESL business
 * Tetra signum : CPR Trainnig, CBS Mass portal site
+
+
+What a no planning lif
