@@ -2,7 +2,7 @@
 
 Python / Django backend software engineer is here
 
-- Currently working: [@tetrasignum](https://github.com/tetrasignum) on [education with 3D](https://tetrasignum.olly.kr).
+- Currently working: [@tetrasignum](https://github.com/tetrasignum) on [education with 3D](https://tetrasignum.kr).
 
 ### Some of my works:
 * [jeonse](https://github.com/almazkun/jeonse) - Rental options comparer.
