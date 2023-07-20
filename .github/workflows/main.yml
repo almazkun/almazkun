@@ -16,17 +16,19 @@ jobs:
         uses: actions/checkout@v3
       
       - name: Generate Snake
-        uses: Platane/snk@v2
-        id: snake-gif
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./.github/github-contribution-grid-snake.gif
-          svg_out_path: ./.github/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
 
       - name: Upload to repo
         run: |
           git config --global user.email "hello@akun.dev"
           git config --global user.name "Almaz Kunpeissov"
-          git add -f ./.github/github-contribution-grid-snake.svg
+          git add -f dist/github-contribution-grid-snake.svg
           git commit -m "update the snake"
           git push origin main:snake --force
