@@ -10,6 +10,12 @@ Python / Django backend software engineer is here
 * [jeonse](https://github.com/almazkun/jeonse) - Rental options comparer.
 * [npss](https://pypi.org/project/npss/) - Your New Password!
 * [Django URL Shortener](https://github.com/almazkun/durls) - Quickly redirect and Shorten URLs.
-* [Django Blog and Shop](https://akun.dev) - Minimalistic django based blog, portfolio and an internet shop. 
+* [Django Blog and Shop](https://akun.dev) - Minimalistic django based blog, portfolio and an internet shop.
+
+### PyPi packages
+* [django-ses-backend](https://pypi.org/project/django-ses-backend/)
+  Django AWS SES (Amazon Simple Email Service) email backend
+* [npss](https://pypi.org/project/npss/)
+  Your New Password!
 
 ![](https://raw.githubusercontent.com/almazkun/almazkun/snake/dist/github-contribution-grid-snake.svg)
